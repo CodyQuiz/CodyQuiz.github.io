@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.73d519c9.chunk.css",
-    "main.js": "/static/js/main.4bae41bc.chunk.js",
-    "main.js.map": "/static/js/main.4bae41bc.chunk.js.map",
+    "main.js": "/static/js/main.be27f316.chunk.js",
+    "main.js.map": "/static/js/main.be27f316.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e1c83d7a.js",
     "runtime-main.js.map": "/static/js/runtime-main.e1c83d7a.js.map",
     "static/js/2.35432249.chunk.js": "/static/js/2.35432249.chunk.js",
@@ -19,13 +19,13 @@
     "static/media/3_2.7d0488bd.png": "/static/media/3_2.7d0488bd.png",
     "static/media/4_1.158ab995.png": "/static/media/4_1.158ab995.png",
     "static/media/4_2.617b7201.png": "/static/media/4_2.617b7201.png",
-    "static/media/Cody_wo_face.130b5c44.png": "/static/media/Cody_wo_face.130b5c44.png",
-    "static/media/App.css": "/static/media/vertical_panel.4c98d533.png"
+    "static/media/App.css": "/static/media/vertical_panel.4c98d533.png",
+    "static/media/cody-resized.87ac3983.png": "/static/media/cody-resized.87ac3983.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e1c83d7a.js",
     "static/js/2.35432249.chunk.js",
     "static/css/main.73d519c9.chunk.css",
-    "static/js/main.4bae41bc.chunk.js"
+    "static/js/main.be27f316.chunk.js"
   ]
 }
